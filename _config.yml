@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/17586844_1661531890554419_1911573743109406720_a.jpg"
+avatar: "https://scontent-dfw5-1.cdninstagram.com/vp/8d8d29af07599070cdd038b4420e69d6/5E37AC94/t51.2885-19/s150x150/17586844_1661531890554419_1911573743109406720_a.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
